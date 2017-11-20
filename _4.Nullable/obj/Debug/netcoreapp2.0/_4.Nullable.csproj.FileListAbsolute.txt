@@ -1,0 +1,11 @@
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\bin\Debug\netcoreapp2.0\_4.Nullable.deps.json
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\bin\Debug\netcoreapp2.0\_4.Nullable.runtimeconfig.json
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\bin\Debug\netcoreapp2.0\_4.Nullable.runtimeconfig.dev.json
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\bin\Debug\netcoreapp2.0\_4.Nullable.dll
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\bin\Debug\netcoreapp2.0\_4.Nullable.pdb
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\obj\Debug\netcoreapp2.0\_4.Nullable.csprojResolveAssemblyReference.cache
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\obj\Debug\netcoreapp2.0\_4.Nullable.csproj.CoreCompileInputs.cache
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\obj\Debug\netcoreapp2.0\_4.Nullable.AssemblyInfoInputs.cache
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\obj\Debug\netcoreapp2.0\_4.Nullable.AssemblyInfo.cs
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\obj\Debug\netcoreapp2.0\_4.Nullable.dll
+D:\dot.net\Core\C#InDepth4Sample\_4.Nullable\obj\Debug\netcoreapp2.0\_4.Nullable.pdb
