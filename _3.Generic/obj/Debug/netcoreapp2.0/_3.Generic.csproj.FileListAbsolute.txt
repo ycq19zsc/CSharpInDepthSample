@@ -1,0 +1,11 @@
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\bin\Debug\netcoreapp2.0\_3.Generic.deps.json
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\bin\Debug\netcoreapp2.0\_3.Generic.runtimeconfig.json
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\bin\Debug\netcoreapp2.0\_3.Generic.runtimeconfig.dev.json
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\bin\Debug\netcoreapp2.0\_3.Generic.dll
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\bin\Debug\netcoreapp2.0\_3.Generic.pdb
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\obj\Debug\netcoreapp2.0\_3.Generic.csprojResolveAssemblyReference.cache
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\obj\Debug\netcoreapp2.0\_3.Generic.csproj.CoreCompileInputs.cache
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\obj\Debug\netcoreapp2.0\_3.Generic.AssemblyInfoInputs.cache
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\obj\Debug\netcoreapp2.0\_3.Generic.AssemblyInfo.cs
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\obj\Debug\netcoreapp2.0\_3.Generic.dll
+D:\dot.net\Core\C#InDepth4Sample\_3.Generic\obj\Debug\netcoreapp2.0\_3.Generic.pdb

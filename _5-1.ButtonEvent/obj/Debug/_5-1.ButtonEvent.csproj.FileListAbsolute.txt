@@ -1,0 +1,10 @@
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\bin\Debug\_5-1.ButtonEvent.exe.config
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\bin\Debug\_5-1.ButtonEvent.exe
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\bin\Debug\_5-1.ButtonEvent.pdb
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\obj\Debug\_5-1.ButtonEvent.csprojResolveAssemblyReference.cache
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\obj\Debug\_5_1.ButtonEvent.Form1.resources
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\obj\Debug\_5_1.ButtonEvent.Properties.Resources.resources
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\obj\Debug\_5-1.ButtonEvent.csproj.GenerateResource.Cache
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\obj\Debug\_5-1.ButtonEvent.csproj.CoreCompileInputs.cache
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\obj\Debug\_5-1.ButtonEvent.exe
+D:\dot.net\Core\C#InDepth4Sample\_5-1.ButtonEvent\obj\Debug\_5-1.ButtonEvent.pdb

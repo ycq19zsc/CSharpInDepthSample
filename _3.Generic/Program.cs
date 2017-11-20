@@ -7,16 +7,24 @@ namespace _3.Generic
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
+            //code 3-3
+            var list = new List<int> { 1, 2, 3, 4, 5, 6, 7 };
 
 
+            var doubles = list.ConvertAll(TakeSquareRoot);
+
+            doubles.ForEach(Console.WriteLine);
+
+            Console.ReadKey();
         }
 
-        //static List<TOutput> ConvertAll<TOutput>(Converter<T, TOutput> conv)
-        //{
-        //    T x 
-        //}
 
+        static double TakeSquareRoot(int x)
+        {
+            return Math.Sqrt(x);
+        }
+
+        //private Converter<int, double> converter = TakeSquareRoot;
     }
 
 
